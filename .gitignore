@@ -2,5 +2,5 @@
 .ipynb_checkpoints
 
 # Raw Data
-.csv
-.tgz
+*.csv
+*.tgz
