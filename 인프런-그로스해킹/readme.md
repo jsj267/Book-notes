@@ -3,7 +3,8 @@
 
 ## 그로스해킹 공부
 - 데이터 다루기
-  + SQL(DB에 원하는 데이터를 추출할 때 사용), Python, R(추출한 데이터를 원하는 형태로 가공할 때 사용)
+  + SQL(DB에 원하는 데이터를 추출할 때 사용)
+  + Python, R(추출한 데이터를 원하는 형태로 가공할 때 사용)
 - 통계, 실험 방법론
 - 다양한 서비스와 툴 사용법
   + GA, Firebase, Tableau, Appsflyer, Amplitude, Braze, Facebook 광고관리자...
