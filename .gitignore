@@ -4,3 +4,4 @@
 # Raw Data
 *.csv
 *.tgz
+data/
